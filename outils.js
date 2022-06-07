@@ -1,0 +1,4 @@
+exports.TOKEN = "OTc4MzE4NTgwNDE4NDk0NTA0.GWPOvT.tPoBmdg77K35Ol8Qc7_B84rd6Qn0DDg9bX9his"
+exports.PREFIX = ";"
+exports.dev = "907360380970487809"
+exports.ownerID = "907360380970487809"
